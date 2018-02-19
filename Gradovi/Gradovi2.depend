@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1519064414 source:c:\users\kuca\desktop\cpp\gradovi2\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<utility>
+	<set>
+	<limits>
+	<algorithm>
+
