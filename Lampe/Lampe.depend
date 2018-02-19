@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1519073433 source:c:\users\kuca\desktop\cpp\lampe\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<utility>
+	<list>
+	<unordered_map>
+
