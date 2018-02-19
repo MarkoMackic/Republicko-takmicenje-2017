@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1518884393 source:c:\users\kuca\desktop\cpp\suma\main.cpp
+	<iostream>
+	<algorithm>
+
